@@ -1,4 +1,3 @@
-
 # Functions to complete:
 
 ## Get a list of uncompleted tasks
